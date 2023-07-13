@@ -1,11 +1,11 @@
 const books = [
     {
       title: 'The Awakening',
-      author: 'Yury'
+      author: 'Teste 1'
     },
     {
       title: 'City of Glass',
-      author: 'Teste'
+      author: 'Teste 2'
     },
   ];
 
